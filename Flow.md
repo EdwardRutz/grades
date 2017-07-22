@@ -30,6 +30,13 @@ scores is array numbers
 	- maybe combine these two loops by pushing each number to either high or low?
 
 	####Counting Grades
+	- Put scale in an array or object [60, 70, 80, 90]
+	- compare the middle value of the array (70) with the grade var.
+		- var < 80, no then, var < 90, yes=A, no=B.
+	- go up or down as needed
+
+
+-------------------------- no, too long...
 	If var is... 
 	- >= 90 then A
 	- >= 80 and < 90 then b, count
