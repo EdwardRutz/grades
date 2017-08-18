@@ -19,9 +19,19 @@ Start with array of random scores in your JavaScript
 var scores = [82, 71, 95, 55, 98, 69, 72, 78, 84, 64, 58, 87];
 ```
 
-- [ ] Use `console.log()` to output the following criteria:
+- [ ] Use `console.log()` to output the following criteria:p
 	- [ ] How many of each grade?
 	- [X] What is the lowest grade?
 	- [X] What is the highest grade?
+
+
+	## Sources
+		[MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FArray)
+
+
+
+
+
+
 
 
