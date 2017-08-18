@@ -5,7 +5,7 @@
 
 ## Requirements
 
-Loop over an array of student grades (values from 50-100) and output how many of each grades there are.
+- [ ] Loop over an array of student grades (values from 50-100) and output how many of each grades there are.
 
 * A score of 50-60 is an F
 * A score of 61-70 is a D
@@ -19,10 +19,19 @@ Start with array of random scores in your JavaScript
 var scores = [82, 71, 95, 55, 98, 69, 72, 78, 84, 64, 58, 87];
 ```
 
-Use `console.log()` to output the following criteria:
+- [ ] Use `console.log()` to output the following criteria:p
+	- [ ] How many of each grade?
+	- [X] What is the lowest grade?
+	- [X] What is the highest grade?
 
-1. How many of each grade?
-1. What is the lowest grade?
-1. What is the highest grade?
+
+	## Sources
+		[MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FArray)
+
+
+
+
+
+
 
 
